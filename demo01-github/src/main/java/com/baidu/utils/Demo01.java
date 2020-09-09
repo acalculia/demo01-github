@@ -5,5 +5,6 @@ public class Demo01 {
         System.out.println("AAA");
         System.out.println("BBB");
         System.out.println("CCC");
+        System.out.println("DDD");
     }
 }
